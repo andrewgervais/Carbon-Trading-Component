@@ -1,8 +1,8 @@
 # Portfolio Part 2: Component Proof-of-Concept
 
-- **Name**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) then delete this comment -->
-- **Dot Number**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) then delete this comment -->
-- **Due Date**: <!-- TODO: fill out with due date and time (e.g., 10/17 @ 3:10 PM EST) then delete this comment -->
+- **Name**: Andrew Gervais
+- **Dot Number**: gervais.25
+- **Due Date**: Due: Thu Feb 20, 2025 12:40pm
 
 ## Assignment Overview
 
@@ -117,6 +117,12 @@ Below is further rationale/explanation for the rubric items above:
 <!-- TODO: briefly argue your choice of design or design something
 new; then delete this comment -->
 
+For this assignment, I am implementing a Carbon Credit trading Component. The goal of this is to
+represent the financial and environmental expenses of Carbon consumption/trading. Ideally, this component
+will pricesly communicate the envioronmental implications of carbon consumption, prompting others to limit their use.
+
+This idea really resignated with me because of it's possible
+
 > Once you've argued your choice of design, make a branch in your new repo called
 > something like `proof-of-concept`. There are many ways to do this, but my
 > preference is to use GitHub Desktop. From there, you can click the `Branch`
@@ -125,8 +131,6 @@ new; then delete this comment -->
 > VSCode to run git commands. It's entirely up to you. Regardless of your choice,
 > we'll want a branch that you can later make a pull request from with all
 > your changes.
-
-<!-- TODO: make a new branch from main then delete this comment -->
 
 ## Assignment Tasks
 
